@@ -2,7 +2,6 @@ import sys
 import re
 import urllib.request 
 
-
 mflag = False # add others later
 rflag = False
 sname = ""
